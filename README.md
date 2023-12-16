@@ -1,5 +1,5 @@
 # 💫 About Me:
-As an enthusiastic student, I seek immersive work experiences that promotes my personal and<br>professional growth. I'm open for collaborate with teams that balance technical expertise and managerial<br>proficiency while contributing to cutting-edge initiatives and sharpening my problem-solving and<br>strategic skills<br>Experience<br>🌱 I’m currently learning AWS, Salesforce, DSA<br><br>
+As an enthusiastic student, I seek immersive work experiences that promotes my personal and<br>professional growth. I'm open for collaborating with teams that balance technical expertise and managerial<br>proficiency while contributing to cutting-edge initiatives and sharpening my problem-solving and<br>strategic skills<br>Experience<br>🌱 I’m currently learning AWS, Salesforce, DSA<br><br>
 
 
 ## 🌐 Socials:
