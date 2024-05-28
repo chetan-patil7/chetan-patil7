@@ -1,6 +1,6 @@
 # 💫 About Me:
-Enthusiast in machine learning,cloud computing and trying to build something new,wait for it........
-<br>Experience<br>🌱 I’m currently learning AWS, DSA<br><br>
+Enthusiast in machine learning,cloud computing 
+<br>Experience<br>🌱 I’m currently learning DSA<br><br>
 
 
 ## 🌐 Socials:
