@@ -84,3 +84,4 @@ I'm a CSE graduate and passionate about gaining valuable experience by contribut
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chetan-patil7&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-patil7&langs_count=5&theme=tokyonight)]()
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetan-patil7&" alt="chetan-patil7" /></p>
