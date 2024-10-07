@@ -81,7 +81,7 @@ I'm a CSE graduate and passionate about gaining valuable experience by contribut
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="40" width="40" />
 
 </a>
-</br>
+<br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=chetan-patil7&count_private=true&theme=tokyonight&showicons=true)]()<br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chetan-patil7&langs_count=5&theme=tokyonight)]()<br>
