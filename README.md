@@ -20,8 +20,7 @@
 💻 **Cloud & DevOps:** AWS (Elastic Beanstalk, EC2, RDS, S3, CloudFormation)  
 🐳 **Containerization & Orchestration:** Docker, Kubernetes  
 🔄 **CI/CD Pipelines:** Jenkins, GitHub Actions  
-🛠️ **Infrastructure as Code (IaC):** Terraform, Ansible  
-📊 **Monitoring & Logging:** Prometheus, Grafana, ELK Stack  
+🛠️ **Infrastructure as Code (IaC):** Terraform, Ansible   
 💡 **Scripting & Automation:** Bash, Python  
 🛡️ **Security & Networking:** Nginx, Load Balancers  
 
