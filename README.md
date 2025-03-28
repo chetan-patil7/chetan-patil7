@@ -15,6 +15,9 @@
 🚀 I'm a passionate **DevOps Engineer in the making**, exploring cloud computing, automation, and infrastructure reliability. My goal is to build **scalable, secure, and efficient** systems while continuously improving CI/CD pipelines and operational workflows.  
 
 ---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+</p>
 
 ### 🛠️ Tech Stack & Interests  
 💻 **Cloud & DevOps:** AWS (Elastic Beanstalk, EC2, RDS, S3, CloudFormation)  
